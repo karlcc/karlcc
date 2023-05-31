@@ -33,10 +33,10 @@
 <h2 align="left">Github Stats</h2>
 
 ###
+<!---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karlcc&show_icons=true&locale=en" alt="karlcc" /></p>
 
-#<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karlcc&show_icons=true&locale=en" alt="karlcc" /></p>
-
-#<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karlcc&show_icons=true&locale=en&layout=compact" alt="karlcc" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karlcc&show_icons=true&locale=en&layout=compact" alt="karlcc" /></p>
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karlcc&" alt="karlcc" /></p>
 
